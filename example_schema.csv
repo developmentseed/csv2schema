@@ -1,0 +1,3 @@
+"name", "title", "desc", "type"                                                                                                                               
+"first", "First Name", "Student's first name", "string"                                                                                                       
+"last", "Last Name", "Student's last name", "string"
