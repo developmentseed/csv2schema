@@ -28,7 +28,7 @@ becomes:
                     "type": "string"
                 }
             },
-            "type": "seriesYear"
+            "type": "object"
         }
     }
 }
